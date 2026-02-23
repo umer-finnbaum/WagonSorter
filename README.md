@@ -1,6 +1,18 @@
 # WagonSorter
 
-Included txt files are examples. These files need to be placed in "C:/FBData/Stacker/" or change the location in relevant script.  
+This is a trimmed version of the Wagon Sorter with no identifier data. Comments are also kep to a minimum.  
+
+Please note that some functionality might be broken in the process of trimming for public release.  
+
+- This program uses QtWidgets due to performance requirements. Future versions will exclusively use Tkinter.
+- Data file is created in CX-supervisor or any other SCADA platform. This program uses configuration of wagons to create a sorting logic for each part.
+- Each part has a unique identifier, a "VIP-key" from a predefined set, and dimensions.  
+- Final output provides Wagon number, row, and place on row, for each part as a text file.
+- This repo includes the simulator script for testing without a PLC.
+- This is the final version program currently in production. There is redundant code left over from previous iterations. The code has evolved over several months of requirement changes from the end users.  
+- Included txt files are examples. These files need to be placed in "C:/FBData/Stacker/" or change the location in relevant script.  
+
+
 
 ## Stacker
 
