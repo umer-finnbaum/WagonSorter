@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="WagonSorter\AutoStackerV6.py" />
+    <Compile Include="WagonSorter\AutoStacker.py" />
     <Compile Include="WagonSorter\Demo_script.py" />
     <Compile Include="WagonSorter\PlcRW.py" />
     <Compile Include="WagonSorter\PLCsimulator.py" />
@@ -37,7 +37,7 @@
     <Content Include="WagonSorter\Example data files\Data_out.txt" />
     <Content Include="WagonSorter\Example data files\settings.txt" />
     <Content Include="WagonSorter\plc_sim.json" />
-    <Content Include="WagonSorter\StackerRemoverV2.pyproj" />
+    <Content Include="WagonSorter\WagonSorter.pyproj" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
