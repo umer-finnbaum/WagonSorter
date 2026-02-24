@@ -34,12 +34,11 @@ Takes input from filename_final.txt for incoming parts, writes back to the same 
 
 Single Wagon display (Updated to horizontal text)  
 
-<img width="1918" height="1026" alt="W1" src="https://github.com/user-attachments/assets/5006218e-b0a4-4ffa-8bdd-06ca1a08d664" />
-
+<img width="1918" height="1026" alt="504653910-5006218e-b0a4-4ffa-8bdd-06ca1a08d664" src="https://github.com/user-attachments/assets/08773b65-fcf4-43cd-9ba3-2412fb82133a" />
 
 Dual Wagon display (Updated to horizontal text)  
 
-<img width="1692" height="896" alt="W2" src="https://github.com/user-attachments/assets/1d27595a-d31d-4ad5-88a8-ea638a8e2e8f" />
+<img width="1692" height="896" alt="504652516-1d27595a-d31d-4ad5-88a8-ea638a8e2e8f" src="https://github.com/user-attachments/assets/76931812-c7df-418d-b84b-9e84111b9efd" />
 
 
 ------------------------------
@@ -48,7 +47,7 @@ Dual Wagon display (Updated to horizontal text)
 
 Changed in latest update to show only 2 wagons at a time.  
 
-<img width="2559" height="1389" alt="image" src="https://github.com/user-attachments/assets/a95c10bd-1f6a-43fb-be94-e800990a29b3" />
+<img width="2559" height="1389" alt="526580926-a95c10bd-1f6a-43fb-be94-e800990a29b3" src="https://github.com/user-attachments/assets/52866bb4-7854-4375-a8c7-cd2821828bdf" />
 
 
 ## Remover (WIP)
@@ -61,5 +60,6 @@ Writes output to shapes_remaining.txt if the **Save Remaining** button is presse
 ## Temporary Helper function for PLC Read/Write
 Basic read/write function for debugging. Uses aphyt for writing string to Omron controllers.  
 
-![PLCRW](https://github.com/user-attachments/assets/f053c9d9-500f-4fa6-8fa5-a266f43618c7)
+![494430972-f053c9d9-500f-4fa6-8fa5-a266f43618c7](https://github.com/user-attachments/assets/7e988d4a-b6b7-4298-92bb-48234fb25cbd)
+
 
